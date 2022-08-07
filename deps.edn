@@ -1,0 +1,3 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        io.github.bortexz/utils.core {:mvn/version "0.0.3"}}}
